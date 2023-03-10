@@ -1,6 +1,5 @@
 var Todo = require("../model/schema");
 const HTTP = require("../../constant/response.constant");
-const fs = require("fs");
 
 var path = require("path");
 
